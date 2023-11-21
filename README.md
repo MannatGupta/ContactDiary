@@ -1,7 +1,7 @@
-# SignInAndSignUpFeature
+# ContactDiary
 
 <!-- Client side -->
-This feature will include a signIn and SignUp form.
+This feature will have the contact details and the CRUD operations would be there.
 <!-- Server side -->
 Firebase integration would be there.
 <!-- CSS Styles -->
